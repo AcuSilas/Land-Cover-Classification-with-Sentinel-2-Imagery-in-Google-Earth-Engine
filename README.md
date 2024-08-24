@@ -1,0 +1,1 @@
+# Land-Cover-Classification-with-Sentinel-2-Imagery-in-Google-Earth-Engine
