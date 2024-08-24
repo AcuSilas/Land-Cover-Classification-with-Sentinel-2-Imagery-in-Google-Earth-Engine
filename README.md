@@ -39,3 +39,6 @@ Interactive Map with Legends:
 
 Legends for both the classified image and the ESRI LULC data are added to the map.
 The final map includes both the classified Sentinel-2 image and the ESRI LULC data for comparison.
+
+
+Link to GEE: https://code.earthengine.google.com/c1c269fa2b690d2c9cc62d97524ddb6f
